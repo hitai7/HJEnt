@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<members>
+  <member>
+    <name>나현준</name>
+    <address>영등포</address>
+    <birth>1983/05/20</birth>
+  </member>
+  <member>
+    <name>나윤찬</name>
+    <address>강남</address>
+    <join>2017/07/04</join>
+  </member>
+</members>
