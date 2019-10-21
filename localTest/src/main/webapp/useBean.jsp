@@ -7,7 +7,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Using JavaBean</title>
+<title>Using JavaBean Test</title>
 </head>
 <body>
 	
